@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in both
 ## 📈 What I'm Working On
 Currently exploring advanced cross-platform tools, refining UI/UX, and building scalable full-stack apps using **Flutter**, **React**, and **Firebase**.
 
-## 📫 Let's Connect
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+<!-- ## 📫 Let's Connect
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) -->
 
 ---
